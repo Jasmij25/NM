@@ -2,7 +2,13 @@ STUDENT PERFORMANCE & RESULT ANALYTICS
 
 1.ABSTRACT
 
-This project analyzes student academic performance using a dataset containing demographic details, parental education, lunch type, test preparation status, and scores in Mathematics, Reading, and Writing. The primary objective is to identify toppers, weak students, subject-wise strengths, and overall class performance trends. Python libraries such as Pandas (data handling), NumPy (mathematical operations), and Matplotlib/Seaborn (visualization) were used. The workflow involved loading the dataset, cleaning missing/inconsistent values, calculating averages, grades, and pass/fail status, followed by exploratory data analysis (EDA). Key insights include: • Students who completed test preparation courses scored significantly higher. • Parental education level positively influenced student performance. • Reading and writing scores were strongly correlated, while math showed more variation. • Female students generally outperformed male students in reading and writing. The final outcome is a performance dashboard with charts showing subject wise distributions, pass/fail rates, and top performers. This project demonstrates how data analytics can support educators in identifying learning gaps and improving teaching strategies.
+This project analyzes student academic performance using a dataset containing demographic details, parental education, lunch type, test preparation status, and scores in Mathematics, Reading, and Writing. The primary objective is to identify toppers, weak students, subject-wise strengths, and overall class performance trends. Python libraries such as Pandas (data handling), NumPy (mathematical operations), and Matplotlib/Seaborn (visualization) were used. The workflow involved loading the dataset, cleaning missing/inconsistent values, calculating averages, grades, and pass/fail status, followed by exploratory data analysis (EDA).
+    Key insights include:
+    • Students who completed test preparation courses scored significantly higher.
+    • Parental education level positively influenced student performance.
+    • Reading and writing scores were strongly correlated, while math showed more variation.
+    • Female students generally outperformed male students in reading and writing. 
+The final outcome is a performance dashboard with charts showing subject wise distributions, pass/fail rates, and top performers. This project demonstrates how data analytics can support educators in identifying learning gaps and improving teaching strategies.
 
 2.PROBLEM STATEMENT
 
