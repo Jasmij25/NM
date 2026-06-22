@@ -2,7 +2,7 @@ STUDENT PERFORMANCE & RESULT ANALYTICS
 
 1.ABSTRACT
 
-This project analyzes student academic performance using a dataset containing demographic details, parental education, lunch type, test preparation status, and scores in Mathematics, Reading, and Writing. The primary objective is to identify toppers, weak students, subject-wise strengths, and overall class performance trends. Python libraries such as Pandas (data handling), NumPy (mathematical operations), and Matplotlib/Seaborn (visualization) were used. The workflow involved loading the dataset, cleaning missing/inconsistent values, calculating averages, grades, and pass/fail status, followed by exploratory data analysis (EDA).
+This project analyzes student academic performance using a dataset containing demographic details, parental education, lunch type, test preparation status, and scores in Mathematics, Reading, and Writing. The primary objective is to identify toppers, weak students, subject-wise strengths, and overall class performance trends. Python libraries such as Pandas (data handling), NumPy (mathematical operations), and Matplotlib/Seaborn (visualization) were used. The workflow involved loading the dataset, cleaning missing/inconsistent values, calculating averages, grades and pass/fail status, followed by exploratory data analysis (EDA).
     Key insights include:
     • Students who completed test preparation courses scored significantly higher.
     • Parental education level positively influenced student performance.
